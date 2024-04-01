@@ -34,6 +34,7 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+![Screenshot 2024-04-01 092125](https://github.com/Kiruthikasutha/HALF_ADDER_SUBTRACTOR/assets/144979570/f91d170a-d992-466f-a759-01af34632f61)
 
 **Procedure**
 
@@ -56,6 +57,12 @@ Developed by: RegisterNumber:*/
 
 **RTL Schematic**
 
+![Screenshot 2024-04-01 092132](https://github.com/Kiruthikasutha/HALF_ADDER_SUBTRACTOR/assets/144979570/8df2ce99-9c30-44f6-a6bb-96c21535722a)
+
+
 **Output/TIMING Waveform**
+![Screenshot 2024-04-01 092144](https://github.com/Kiruthikasutha/HALF_ADDER_SUBTRACTOR/assets/144979570/9a315988-ff83-4277-82e0-6f5c699ccc06)
 
 **Result:**
+
+Thus the Half Adder and Half Subtractor circuits are designed and the truth tables is verified using Quartus software.
